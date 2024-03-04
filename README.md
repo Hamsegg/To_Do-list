@@ -6,5 +6,5 @@
       data of the page.
     - Even after the page is refresh previous data is saved.
 
-link to this project :  https://to-do-list-eta-sand.vercel.app/
+Link to this project :  https://to-do-list-eta-sand.vercel.app/
 
